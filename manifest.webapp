@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "name": "Croma",
+  "description": "Sao Carlos beer and pao de queijo",
+  "launch_path": "/",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Fabricio",
+    "url": "http://fabricio.org"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "pt": {
+      "description": "um navegador",
+      "developer": {
+        "url": "http://croma.fabricio.org"
+      }
+    }
+  },
+  "default_locale": "en"
+}
